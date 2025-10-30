@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+*.pkg
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
